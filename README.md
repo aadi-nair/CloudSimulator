@@ -1,6 +1,10 @@
 # Homework 3 (Aditya Nair - anair38)
 
-CloudSimulation is an analysis project built using CloudSim Plus Library and Scala 3.1.3
+CloudSimulation is an analysis project built using CloudSim Plus Library and Scala 3.1.3 \
+
+Fig1: AWS Architecture Diagram of the Network Topology
+<img src="network_topology.png" alt="Network Topology Diagram" title="Network Topology Diagram">
+
 
 ## Project Structure
 
