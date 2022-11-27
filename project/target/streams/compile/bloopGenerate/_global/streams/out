@@ -1,0 +1,4 @@
+[debug] [cloudsimulator-build] Classpath dependencies List()
+[debug] [cloudsimulator-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'cloudsimulator-build' to '/Users/aditya/Documents/CS441/CloudSimulator/project/.bloop/cloudsimulator-build.json'
+[success] Generated .bloop/cloudsimulator-build.json
