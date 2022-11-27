@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/aditya/Documents/CS441/CloudSimulator/target/scala-3.1.3/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Simulation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetworkTopologySimulation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigLoader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreateLogger$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreateLogger.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DatacenterLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CloudletSchedulerSimulation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VmAllocationSimulation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DcConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VmConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HostConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Simulation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CloudletConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CostConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Simulation.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetworkTopologySimulation.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigLoader$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreateLogger$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreateLogger.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DatacenterLoader.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CloudletSchedulerSimulation.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigLoader.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VmAllocationSimulation.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DcConfig.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VmConfig.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HostConfig.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Simulation$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CloudletConfig.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CostConfig.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/aditya/Documents/CS441/CloudSimulator/target/scala-3.1.3/classes.bak[0m

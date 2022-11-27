@@ -22,7 +22,7 @@ object ConfigLoader:
   def loadDcConfig(configName: String, simName: String, dcIndex: Int): DcConfig =
     val conf = ConfigFactory.load(configName)
     val cloudletConfigPath = simName + ".datacenter" + dcIndex + "."
-    DcConfig(conf.getInt(cloudletConfigPath+"numberOfHosts"), conf.getInt(cloudletConfigPath+"numberOfVms"), conf.getInt(cloudletConfigPath+"numberOfCloudlets"), conf.getInt(cloudletConfigPath+"costPerSec"), conf.getInt(cloudletConfigPath+"costPerMem"), conf.getInt(cloudletConfigPath+"costPerStorage"), conf.getInt(cloudletConfigPath+"costPerBw"), conf.getString(cloudletConfigPath+"arch"),conf.getString(cloudletConfigPath+"os"), conf.getString(cloudletConfigPath+"vmm") )
+    DcConfig(conf.getInt(cloudletConfigPath+"numberOfHosts"), conf.getInt(cloudletConfigPath+"numberOfVms"), conf.getInt(cloudletConfigPath+"numberOfCloudlets"), conf.getDouble(cloudletConfigPath+"costPerSec"), conf.getDouble(cloudletConfigPath+"costPerMem"), conf.getDouble(cloudletConfigPath+"costPerStorage"), conf.getDouble(cloudletConfigPath+"costPerBw"), conf.getString(cloudletConfigPath+"arch"),conf.getString(cloudletConfigPath+"os"), conf.getString(cloudletConfigPath+"vmm") )
 
 
   def printCostConfig(costConfig: CostConfig): String =

@@ -37,7 +37,7 @@ class VmAllocationSimulation(val configName: String, val simulationName: String,
   simulation.start()
   val finishedCloudlets: util.List[Cloudlet] = broker.getCloudletFinishedList()
   new CloudletsTableBuilder(finishedCloudlets).build()
-//  logger.info(ConfigLoader.printCostConfig(dcLoader.calculateCost(broker)))
+  logger.info(ConfigLoader.printCostConfig(dcLoader.calculateCost(broker)))
 
 
 
